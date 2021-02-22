@@ -1,0 +1,735 @@
+<?xml version="1.0" standalone="no"?>
+<mlt LC_NUMERIC="C" version="6.25.0" title="Shotcut version 21.01.29" producer="main_bin">
+  <profile description="automatic" width="1280" height="720" progressive="1" sample_aspect_num="1" sample_aspect_den="1" display_aspect_num="16" display_aspect_den="9" frame_rate_num="50" frame_rate_den="1" colorspace="709"/>
+  <producer id="producer0" in="00:00:00.000" out="00:00:57.860">
+    <property name="length">00:00:57.883</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/Siew Teng/Desktop/Music scores/undertale soundtracks that i actyally bought/toby fox - UNDERTALE Soundtrack - 43 Temmie Village.mp3</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2021-02-21T04:12:25</property>
+    <property name="shotcut:hash">b824aad760daac7e1f4d232f2ef9d4b1</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer1" in="00:00:00.000" out="00:00:31.520">
+    <property name="length">00:00:31.533</property>
+    <property name="eof">pause</property>
+    <property name="resource">D:/University Stuffs/Year 4 Sem 2/DM2007 Interactive 2/RM3 Cheese/flappyBird1.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2021-02-22T11:26:38</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">874334d680128fbbfe602e24118460d5</property>
+  </producer>
+  <producer id="producer2" in="00:00:00.000" out="00:00:22.260">
+    <property name="length">00:00:22.283</property>
+    <property name="eof">pause</property>
+    <property name="resource">D:/University Stuffs/Year 4 Sem 2/DM2007 Interactive 2/RM3 Cheese/flappyBird2.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2021-02-22T11:27:48</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">2729582f927361cccf4a55f24477bab0</property>
+  </producer>
+  <producer id="producer3" in="00:00:00.000" out="00:00:24.940">
+    <property name="length">00:00:24.967</property>
+    <property name="eof">pause</property>
+    <property name="resource">D:/University Stuffs/Year 4 Sem 2/DM2007 Interactive 2/RM3 Cheese/testWekinator.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2021-02-22T11:17:02</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">bafba0b388f8c9d482704e5f744e7d20</property>
+  </producer>
+  <producer id="producer4" in="00:00:00.000" out="00:01:24.300">
+    <property name="length">00:01:24.317</property>
+    <property name="eof">pause</property>
+    <property name="resource">D:/University Stuffs/Year 4 Sem 2/DM2007 Interactive 2/RM3 Cheese/finishedGame.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2021-02-22T11:35:07</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">fcb80a448fd1d36ea80f16557563f209</property>
+  </producer>
+  <producer id="producer5" in="00:00:00.000" out="03:59:59.980">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">D:/University Stuffs/Year 4 Sem 2/DM2007 Interactive 2/RM1 Mirror/RM1 Mirror/Video materials/black.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2021-02-01T15:23:54</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">fbc734050fb754b06d7cbb3ad96cbe67</property>
+  </producer>
+  <producer id="producer6" in="00:00:00.000" out="03:59:59.980">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">D:/University Stuffs/Year 4 Sem 2/DM2007 Interactive 2/RM3 Cheese/PPAP.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2021-02-22T12:14:42</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">53023fe83dc87196b273a034b077b9f7</property>
+  </producer>
+  <producer id="producer7" in="00:00:00.000" out="00:00:27.660">
+    <property name="length">00:00:27.680</property>
+    <property name="eof">pause</property>
+    <property name="resource">D:/University Stuffs/Year 4 Sem 2/DM2007 Interactive 2/RM3 Cheese/trainModel.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2021-02-22T12:18:47</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">e8048766c20ad3a663c8e804fc6f8522</property>
+  </producer>
+  <producer id="producer8" in="00:00:00.000" out="00:00:47.300">
+    <property name="length">00:00:47.320</property>
+    <property name="eof">pause</property>
+    <property name="resource">D:/University Stuffs/Year 4 Sem 2/DM2007 Interactive 2/RM3 Cheese/downloadFlappyBird.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2021-02-22T12:38:36</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">9a31167fa91d48f1978e60233230d663</property>
+  </producer>
+  <playlist id="main_bin" title="Shotcut version 21.01.29">
+    <property name="shotcut:projectAudioChannels">2</property>
+    <property name="shotcut:projectFolder">1</property>
+    <property name="xml_retain">1</property>
+    <entry producer="producer0" in="00:00:00.000" out="00:00:57.860"/>
+    <entry producer="producer1" in="00:00:00.000" out="00:00:31.520"/>
+    <entry producer="producer2" in="00:00:00.000" out="00:00:22.260"/>
+    <entry producer="producer3" in="00:00:00.000" out="00:00:24.940"/>
+    <entry producer="producer4" in="00:00:00.000" out="00:01:24.300"/>
+    <entry producer="producer5" in="00:00:00.000" out="00:00:03.980"/>
+    <entry producer="producer6" in="00:00:00.000" out="00:00:03.980"/>
+    <entry producer="producer7" in="00:00:00.000" out="00:00:27.660"/>
+    <entry producer="producer8" in="00:00:00.000" out="00:00:47.300"/>
+  </playlist>
+  <producer id="black" in="00:00:00.000" out="00:01:02.700">
+    <property name="length">00:01:02.720</property>
+    <property name="eof">pause</property>
+    <property name="resource">0</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgb24a</property>
+    <property name="set.test_audio">0</property>
+  </producer>
+  <playlist id="background">
+    <entry producer="black" in="00:00:00.000" out="00:01:02.700"/>
+  </playlist>
+  <producer id="producer9" in="00:00:00.000" out="03:59:59.980">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">D:/University Stuffs/Year 4 Sem 2/DM2007 Interactive 2/RM1 Mirror/RM1 Mirror/Video materials/black.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2021-02-01T15:23:54</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">fbc734050fb754b06d7cbb3ad96cbe67</property>
+    <property name="shotcut:caption">black.png</property>
+    <filter id="filter0" out="00:00:04.560">
+      <property name="argument">RM3</property>
+      <property name="geometry">701 203 579 323 1</property>
+      <property name="family">Gadugi</property>
+      <property name="size">216</property>
+      <property name="weight">750</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">bottom</property>
+      <property name="outline">3</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">1</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="shotcut:pointSize">130</property>
+    </filter>
+    <filter id="filter1" out="00:00:04.560">
+      <property name="argument">Cheese</property>
+      <property name="geometry">256 349 959 336 1</property>
+      <property name="family">Verdana</property>
+      <property name="size">166</property>
+      <property name="weight">750</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">right</property>
+      <property name="valign">bottom</property>
+      <property name="outline">3</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">1</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="shotcut:pointSize">100</property>
+    </filter>
+  </producer>
+  <producer id="producer10" in="00:00:00.000" out="03:59:59.980">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">D:/University Stuffs/Year 4 Sem 2/DM2007 Interactive 2/RM1 Mirror/RM1 Mirror/Video materials/black.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2021-02-01T15:23:54</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">fbc734050fb754b06d7cbb3ad96cbe67</property>
+    <property name="shotcut:caption">black.png</property>
+    <filter id="filter2" out="00:00:02.820">
+      <property name="argument">1. Train wekinator model 
+to be able to detect the 
+opening and closing of
+mouth</property>
+      <property name="geometry">0 0 1280 720 1</property>
+      <property name="family">Verdana</property>
+      <property name="size">83</property>
+      <property name="weight">500</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">middle</property>
+      <property name="outline">3</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">1</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="shotcut:pointSize">50</property>
+    </filter>
+  </producer>
+  <producer id="producer11" in="00:00:00.000" out="00:00:27.660">
+    <property name="length">00:00:27.680</property>
+    <property name="eof">pause</property>
+    <property name="resource">D:/University Stuffs/Year 4 Sem 2/DM2007 Interactive 2/RM3 Cheese/trainModel.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2021-02-22T12:18:47</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">e8048766c20ad3a663c8e804fc6f8522</property>
+    <property name="shotcut:caption">trainModel.mp4</property>
+    <filter id="filter3" out="00:00:08.140">
+      <property name="argument">Train the model for case 1: open mouth</property>
+      <property name="geometry">-27 14 1330 108 1</property>
+      <property name="family">Verdana</property>
+      <property name="size">50</property>
+      <property name="weight">500</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">middle</property>
+      <property name="outline">3</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">1</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="shotcut:pointSize">30</property>
+    </filter>
+  </producer>
+  <producer id="producer12" in="00:00:00.000" out="00:00:27.660">
+    <property name="length">00:00:27.680</property>
+    <property name="eof">pause</property>
+    <property name="resource">D:/University Stuffs/Year 4 Sem 2/DM2007 Interactive 2/RM3 Cheese/trainModel.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2021-02-22T12:18:47</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">e8048766c20ad3a663c8e804fc6f8522</property>
+    <property name="shotcut:caption">trainModel.mp4</property>
+    <filter id="filter4" in="00:00:08.160" out="00:00:14.360">
+      <property name="argument">Train the model for case 2: closed mouth</property>
+      <property name="geometry">-27 14 1330 108 1</property>
+      <property name="family">Verdana</property>
+      <property name="size">50</property>
+      <property name="weight">500</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">middle</property>
+      <property name="outline">3</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">1</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="shotcut:pointSize">30</property>
+    </filter>
+  </producer>
+  <producer id="producer13" in="00:00:00.000" out="03:59:59.980">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">D:/University Stuffs/Year 4 Sem 2/DM2007 Interactive 2/RM1 Mirror/RM1 Mirror/Video materials/black.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2021-02-01T15:23:54</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">fbc734050fb754b06d7cbb3ad96cbe67</property>
+    <property name="shotcut:caption">black.png</property>
+    <filter id="filter5" out="00:00:03.140">
+      <property name="argument">2. Check if the model
+is trained correctly</property>
+      <property name="geometry">0 0 1280 720 1</property>
+      <property name="family">Verdana</property>
+      <property name="size">83</property>
+      <property name="weight">500</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">middle</property>
+      <property name="outline">3</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">1</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="shotcut:pointSize">50</property>
+    </filter>
+  </producer>
+  <producer id="producer14" in="00:00:00.000" out="00:00:24.940">
+    <property name="length">00:00:24.967</property>
+    <property name="eof">pause</property>
+    <property name="resource">D:/University Stuffs/Year 4 Sem 2/DM2007 Interactive 2/RM3 Cheese/testWekinator.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2021-02-22T11:17:02</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">bafba0b388f8c9d482704e5f744e7d20</property>
+    <property name="shotcut:caption">testWekinator.mp4</property>
+  </producer>
+  <producer id="producer15" in="00:00:00.000" out="00:00:24.940">
+    <property name="length">00:00:24.967</property>
+    <property name="eof">pause</property>
+    <property name="resource">D:/University Stuffs/Year 4 Sem 2/DM2007 Interactive 2/RM3 Cheese/testWekinator.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2021-02-22T11:17:02</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">bafba0b388f8c9d482704e5f744e7d20</property>
+    <property name="shotcut:caption">testWekinator.mp4</property>
+    <filter id="filter6" in="00:00:11.220" out="00:00:14.160">
+      <property name="argument">It works!</property>
+      <property name="geometry">-9 561 1330 108 1</property>
+      <property name="family">Verdana</property>
+      <property name="size">50</property>
+      <property name="weight">500</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">middle</property>
+      <property name="outline">3</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">1</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="shotcut:pointSize">30</property>
+    </filter>
+  </producer>
+  <producer id="producer16" in="00:00:00.000" out="03:59:59.980">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">D:/University Stuffs/Year 4 Sem 2/DM2007 Interactive 2/RM1 Mirror/RM1 Mirror/Video materials/black.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2021-02-01T15:23:54</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">fbc734050fb754b06d7cbb3ad96cbe67</property>
+    <property name="shotcut:caption">black.png</property>
+    <filter id="filter7" out="00:00:02.560">
+      <property name="argument">3. Get the source code
+of a popular-ish game
+from GitHub</property>
+      <property name="geometry">0 0 1280 720 1</property>
+      <property name="family">Verdana</property>
+      <property name="size">83</property>
+      <property name="weight">500</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">middle</property>
+      <property name="outline">3</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">1</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="shotcut:pointSize">50</property>
+    </filter>
+  </producer>
+  <producer id="producer17" in="00:00:00.000" out="00:00:14.320">
+    <property name="length">00:00:14.340</property>
+    <property name="eof">pause</property>
+    <property name="resource">3.3:D:/University Stuffs/Year 4 Sem 2/DM2007 Interactive 2/RM3 Cheese/downloadFlappyBird.mp4</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">1</property>
+    <property name="warp_speed">3.3</property>
+    <property name="warp_resource">D:/University Stuffs/Year 4 Sem 2/DM2007 Interactive 2/RM3 Cheese/downloadFlappyBird.mp4</property>
+    <property name="mlt_service">timewarp</property>
+    <property name="shotcut:producer">avformat</property>
+    <property name="video_delay">0</property>
+    <property name="shotcut:hash">9a31167fa91d48f1978e60233230d663</property>
+    <property name="shotcut:caption">downloadFlappyBird.mp4 (3.3x)</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer18" in="00:00:00.000" out="00:00:15.740">
+    <property name="length">00:00:15.760</property>
+    <property name="eof">pause</property>
+    <property name="resource">3:D:/University Stuffs/Year 4 Sem 2/DM2007 Interactive 2/RM3 Cheese/downloadFlappyBird.mp4</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">1</property>
+    <property name="warp_speed">3</property>
+    <property name="warp_resource">D:/University Stuffs/Year 4 Sem 2/DM2007 Interactive 2/RM3 Cheese/downloadFlappyBird.mp4</property>
+    <property name="mlt_service">timewarp</property>
+    <property name="shotcut:producer">avformat</property>
+    <property name="video_delay">0</property>
+    <property name="shotcut:hash">9a31167fa91d48f1978e60233230d663</property>
+    <property name="shotcut:caption">downloadFlappyBird.mp4 (3x)</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer19" in="00:00:00.000" out="00:00:11.120">
+    <property name="length">00:00:11.140</property>
+    <property name="eof">pause</property>
+    <property name="resource">2:D:/University Stuffs/Year 4 Sem 2/DM2007 Interactive 2/RM3 Cheese/flappyBird2.mp4</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">1</property>
+    <property name="warp_speed">2</property>
+    <property name="warp_resource">D:/University Stuffs/Year 4 Sem 2/DM2007 Interactive 2/RM3 Cheese/flappyBird2.mp4</property>
+    <property name="mlt_service">timewarp</property>
+    <property name="shotcut:producer">avformat</property>
+    <property name="video_delay">0</property>
+    <property name="shotcut:hash">2729582f927361cccf4a55f24477bab0</property>
+    <property name="shotcut:caption">flappyBird2.mp4 (2x)</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer20" in="00:00:00.000" out="00:00:11.120">
+    <property name="length">00:00:11.140</property>
+    <property name="eof">pause</property>
+    <property name="resource">2:D:/University Stuffs/Year 4 Sem 2/DM2007 Interactive 2/RM3 Cheese/flappyBird2.mp4</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">1</property>
+    <property name="warp_speed">2</property>
+    <property name="warp_resource">D:/University Stuffs/Year 4 Sem 2/DM2007 Interactive 2/RM3 Cheese/flappyBird2.mp4</property>
+    <property name="mlt_service">timewarp</property>
+    <property name="shotcut:producer">avformat</property>
+    <property name="video_delay">0</property>
+    <property name="shotcut:hash">2729582f927361cccf4a55f24477bab0</property>
+    <property name="shotcut:caption">flappyBird2.mp4 (2x)</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <filter id="filter8" in="00:00:06.000" out="00:00:08.140">
+      <property name="argument">Thanks TimoWilken for putting up the whole source code
+for his remake of pygame flappy bird!</property>
+      <property name="geometry">264 519 749 203 1</property>
+      <property name="family">Verdana</property>
+      <property name="size">50</property>
+      <property name="weight">500</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">middle</property>
+      <property name="outline">3</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">1</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="shotcut:pointSize">30</property>
+    </filter>
+  </producer>
+  <producer id="producer21" in="00:00:00.000" out="03:59:59.980">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">D:/University Stuffs/Year 4 Sem 2/DM2007 Interactive 2/RM1 Mirror/RM1 Mirror/Video materials/black.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2021-02-01T15:23:54</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">fbc734050fb754b06d7cbb3ad96cbe67</property>
+    <property name="shotcut:caption">black.png</property>
+    <filter id="filter9" out="00:00:02.120">
+      <property name="argument">4. Combine them!</property>
+      <property name="geometry">0 0 1280 720 1</property>
+      <property name="family">Verdana</property>
+      <property name="size">83</property>
+      <property name="weight">500</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">middle</property>
+      <property name="outline">3</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">1</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="shotcut:pointSize">50</property>
+    </filter>
+  </producer>
+  <producer id="producer22" in="00:00:00.000" out="00:00:48.160">
+    <property name="length">00:00:48.180</property>
+    <property name="eof">pause</property>
+    <property name="resource">1.75:D:/University Stuffs/Year 4 Sem 2/DM2007 Interactive 2/RM3 Cheese/finishedGame.mp4</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">1</property>
+    <property name="warp_speed">1.75</property>
+    <property name="warp_resource">D:/University Stuffs/Year 4 Sem 2/DM2007 Interactive 2/RM3 Cheese/finishedGame.mp4</property>
+    <property name="mlt_service">timewarp</property>
+    <property name="shotcut:producer">avformat</property>
+    <property name="video_delay">0</property>
+    <property name="shotcut:hash">fcb80a448fd1d36ea80f16557563f209</property>
+    <property name="shotcut:caption">finishedGame.mp4 (1.75x)</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer23" in="00:00:00.000" out="03:59:59.980">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">D:/University Stuffs/Year 4 Sem 2/DM2007 Interactive 2/RM1 Mirror/RM1 Mirror/Video materials/black.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2021-02-01T15:23:54</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">fbc734050fb754b06d7cbb3ad96cbe67</property>
+    <property name="shotcut:caption">black.png</property>
+    <filter id="filter10" out="00:00:02.120">
+      <property name="argument">Thank you:
+
+github.com/TimoWilken
+for Flappy Bird code
+
+Toby Fox for 
+TemmieVillage soundtrack</property>
+      <property name="geometry">0 0 1280 720 1</property>
+      <property name="family">Verdana</property>
+      <property name="size">58</property>
+      <property name="weight">500</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">middle</property>
+      <property name="outline">3</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">1</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="shotcut:pointSize">35</property>
+    </filter>
+  </producer>
+  <playlist id="playlist0">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">V1</property>
+    <entry producer="producer9" in="00:00:00.000" out="00:00:04.560"/>
+    <blank length="00:00:01.520"/>
+    <entry producer="producer10" in="00:00:00.000" out="00:00:02.820"/>
+    <entry producer="producer11" in="00:00:00.000" out="00:00:08.140"/>
+    <entry producer="producer12" in="00:00:08.160" out="00:00:14.360"/>
+    <blank length="00:00:01.340"/>
+    <entry producer="producer13" in="00:00:00.000" out="00:00:02.740"/>
+    <entry producer="producer14" in="00:00:09.560" out="00:00:11.200"/>
+    <entry producer="producer15" in="00:00:11.220" out="00:00:14.160"/>
+    <blank length="00:00:00.680"/>
+    <entry producer="producer16" in="00:00:00.000" out="00:00:02.560"/>
+    <blank length="00:00:00.820"/>
+    <entry producer="producer17" in="00:00:00.000" out="00:00:02.560"/>
+    <entry producer="producer18" in="00:00:12.180" out="00:00:14.900"/>
+    <entry producer="producer19" in="00:00:04.240" out="00:00:05.980"/>
+    <entry producer="producer20" in="00:00:06.000" out="00:00:08.140"/>
+    <blank length="00:00:00.760"/>
+    <entry producer="producer21" in="00:00:00.000" out="00:00:02.120"/>
+    <blank length="00:00:00.660"/>
+    <entry producer="producer22" in="00:00:33.440" out="00:00:45.080"/>
+    <entry producer="producer23" in="00:00:00.000" out="00:00:02.120"/>
+  </playlist>
+  <producer id="producer24" in="00:00:00.000" out="00:00:57.860">
+    <property name="length">00:00:57.883</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/Siew Teng/Desktop/Music scores/undertale soundtracks that i actyally bought/toby fox - UNDERTALE Soundtrack - 43 Temmie Village.mp3</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2021-02-21T04:12:25</property>
+    <property name="shotcut:hash">b824aad760daac7e1f4d232f2ef9d4b1</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">toby fox - UNDERTALE Soundtrack - 43 Temmie Village.mp3</property>
+  </producer>
+  <playlist id="playlist1">
+    <property name="shotcut:audio">1</property>
+    <property name="shotcut:name">A1</property>
+    <blank length="00:00:03.020"/>
+    <entry producer="producer24" in="00:00:00.000" out="00:00:57.860"/>
+  </playlist>
+  <tractor id="tractor0" title="Shotcut version 21.01.29" global_feed="1" in="00:00:00.000" out="00:01:02.700">
+    <property name="shotcut">1</property>
+    <property name="shotcut:projectAudioChannels">2</property>
+    <property name="shotcut:projectFolder">1</property>
+    <track producer="background"/>
+    <track producer="playlist0" hide="audio"/>
+    <track producer="playlist1" hide="video"/>
+    <transition id="transition0">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition1">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="version">0.9</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="threads">0</property>
+      <property name="disable">1</property>
+    </transition>
+    <transition id="transition2">
+      <property name="a_track">0</property>
+      <property name="b_track">2</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+  </tractor>
+</mlt>
